@@ -12,6 +12,3 @@ module Collatz
     collatz_array
   end
 end
-# array_size = Collatz(num).size
-# array = Collatz(num)
-# puts "The ending array is #{array.inspect} with length #{array_size}"
